@@ -1,4 +1,3 @@
-passwordgen
 
 import string
 import secrets
